@@ -2,6 +2,40 @@
     margin:0;
     padding:0;
 }
+
+body {
+	background-color: silver;
+    color:blue
+}
+header h1 {
+	background-color: rgb(128,0,0) ;
+    color: lightgrey;
+    -moz-box-shadow: 10px 10px 5px #888888;
+    box-shadow: 10px 10px 5px #888888;
+}
+header h2 {
+	background-color: blue;
+    color: rgb(190,0,0) ;
+}
+header h3 {
+    height:30px;
+    background-color:lightyellow;
+    color: blue;
+    -moz-box-shadow: 10px 10px 5px #888888;
+    box-shadow: 10px 10px 5px #888888;
+}
+header h4 {
+	background-color: silver;
+    color: rgb(190,0,0) ;
+}
+header h5 {
+	background-color: darkgrey;
+    color: black ;
+}
+div{
+                    
+   }
+/*
 body {
     font:14px/1.3 Arial,sans-serif;
     background-color:#212121;
@@ -46,3 +80,4 @@ header .stuts span {
     margin: 30px auto;
     width: 957px;
 }
+*/
