@@ -2,9 +2,8 @@
     margin:0;
     padding:0;
 }
-
 body {
-	font:14px/1.3 Arial,sans-serif;
+    font:14px/1.3 Arial,sans-serif;
     background-color:#212121;
 }
 header {
@@ -17,14 +16,8 @@ header {
     width:100%;
     z-index:100;
 }
-header h1 {
-	background-color: rgb(128,0,0) ;
-    color: lightgrey;
-    -moz-box-shadow: 10px 10px 5px #888888;
-    box-shadow: 10px 10px 5px #888888;
-}
-header h2 {
-	font-size:22px;
+header h2{
+    font-size:22px;
     font-weight:normal;
     left:50%;
     margin-left:-400px;
@@ -32,24 +25,6 @@ header h2 {
     position:absolute;
     width:540px;
 }
-header h3 {
-    height:30px;
-    background-color:lightyellow;
-    color: blue;
-    -moz-box-shadow: 10px 10px 5px #888888;
-    box-shadow: 10px 10px 5px #888888;
-}
-header h4 {
-	background-color: silver;
-    color: rgb(190,0,0) ;
-}
-header h5 {
-	background-color: darkgrey;
-    color: black ;
-}
-div{
-                    
-   }
 header a.stuts,a.stuts:visited{
     border:none;
     text-decoration:none;
