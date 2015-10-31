@@ -59,6 +59,7 @@ header h2{
     position:absolute;
     width:540px;
 }
+*/
 header a.stuts,a.stuts:visited{
     border:none;
     text-decoration:none;
@@ -80,4 +81,3 @@ header .stuts span {
     margin: 30px auto;
     width: 957px;
 }
-*/
